@@ -15,5 +15,3 @@ sleep(1)
 
 action_enter = ActionChains(navegador)
 action_enter.send_keys(Keys.ENTER).perform()
-
-#teste teste

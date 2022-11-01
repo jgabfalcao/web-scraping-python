@@ -14,7 +14,7 @@ sleep(1.2)
 click_button = navegador.find_element(By.ID, 'searchSubmit')
 click_button.click()
 
-#teste teste
+
 
 
 
